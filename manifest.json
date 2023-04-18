@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Perrito",
+  "version": "0.1.0",
+  "description": "Perrito",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://portal.wsb.pl/group/gdansk/*"]
+  }]
+ 
+}
