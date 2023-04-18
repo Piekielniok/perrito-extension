@@ -6,7 +6,6 @@
   "description": "Perrito",
  
   "content_scripts": [{
-    "css": ["styles.css"],
     "js": ["content.js"],
     "matches": ["https://portal.wsb.pl/group/gdansk/*"]
   }]
