@@ -9,5 +9,5 @@ for (var i = 0; i < logoImage.length; i++) {
 }
 
 for (var j = 0; j < promoImage.length; j++) {
-  promoImage[i].src = 'https://raw.githubusercontent.com/Piekielniok/perrito-extension/master/perrito_300x250.jpg';
+  promoImage[j].src = 'https://i.imgur.com/g4C2wdd.jpg';
 }
